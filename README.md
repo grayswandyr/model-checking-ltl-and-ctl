@@ -1,5 +1,5 @@
 Du 30.06.14 au 01.08.14 j'ai effectué un stage d'un mois au département DTIM de l'ONERA.
-J'ai étudié et implémenté en logique OCaml quelques algorithmes de model-checking pour les logiques temporelles LTL et CTL.
+J'ai étudié et implémenté en OCaml quelques algorithmes de model-checking pour les logiques temporelles LTL et CTL.
 
 Comme il me restait un peu de temps, j'ai aussi implémenté un analyseur syntaxique reconnaissant les formules de type LTL. On peut très facilement adapter les codes associés (à savoir: Parser.mly, Lexer.mll, Main.ml et Formula.ml) pour faire un analyseur syntaxique pour CTL.
 
